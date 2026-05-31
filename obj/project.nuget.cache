@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIRU0Y/OY50=",
+  "success": true,
+  "projectFilePath": "/home/berlyn/Música/Tarea 3/T1/T1.csproj",
+  "expectedPackageFiles": [
+    "/home/berlyn/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
